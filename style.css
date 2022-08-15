@@ -300,4 +300,10 @@ margin-right:8%;
     border: 1 px solid black;
 }
 
---------
+.footer-text p{
+    font-size:2vw;
+}
+
+.footer-text{
+    padding:2.5vw;
+}
